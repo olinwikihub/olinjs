@@ -1,7 +1,7 @@
 Olin.js - Spring 2015
 ===
 
-This is my edit. Yay! Yay!
+This is my edit.
 
 ##Course Contents
 * [Class 0 - Getting Ready for the Course](./classes/class00)
