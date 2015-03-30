@@ -3,6 +3,8 @@ Olin.js - Spring 2015
 
 This is my edit.
 
+This is _my_ edit. (Evan)
+
 ##Course Contents
 * [Class 0 - Getting Ready for the Course](./classes/class00)
 * [Class 1 - Course Introduction and The Internet](./classes/class01)
